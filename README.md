@@ -7,4 +7,5 @@
 4)Now in browser type localhost/phpmyadmin <br /> 
 5)Create a new database with name "user_database" <br /> 
 6)Now create a table with 4 columns 1.id 2.email 3.name 4.password <br /> 
-7)Thats it youre ready to rock!
+7)Thats it youre ready to rock! <br /> 
+<b> Feel Free to fork and try it.</b>
